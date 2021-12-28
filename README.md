@@ -1,3 +1,4 @@
+
 [![2-original.png](https://i.postimg.cc/x8vNYvM4/2-original.png)](https://www.youtube.com/channel/UCPAYVu6PiGRgAWbzxFM4xTg)
 
 <p align="center">
@@ -9,9 +10,6 @@
     </a>
     <a href="https://www.tiktok.com/@wildercahuayaquispe" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
-    </a>
-    <a href="https://www.instagram.com/wildercahuayaquispe/" target=""blank" style="margin: 0 20px; >
-      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
     <a href="https://www.linkedin.com/in/wilder-cahuaya-quispe-b9730420a/" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
