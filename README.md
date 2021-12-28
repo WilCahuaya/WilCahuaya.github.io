@@ -1,3 +1,4 @@
+
 [![2-original.png](https://i.postimg.cc/x8vNYvM4/2-original.png)](https://www.youtube.com/channel/UCPAYVu6PiGRgAWbzxFM4xTg)
 
 <p align="center">
@@ -21,7 +22,7 @@
 
 ## 👉 Sobre mí
 Soy un **Desarrollador Junior** y **Estudiante en la escuela [Platzi](https://Platzi.com/)** centrado en aprender programación tanto para páginas web como aplicaciones.
-
+ l ;00000
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCPAYVu6PiGRgAWbzxFM4xTg) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
 <a href='https://www.youtube.com/watch?v=xJD35JYs9zk&t=137s' title="Mostrando la aplicación ZapCubix - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i.postimg.cc/fLkVt4Xm/ZapCubix.png' alt='Mostrando la aplicación ZapCubix - ver en Youtube' />
